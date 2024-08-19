@@ -16,6 +16,7 @@
 
                 function callApiEndpoint(optionLabel, selectDomElement, url, actionCode)
                 {
+                    $('#mlipski_cars_models').children().remove();
                     $.ajax({
                     url: url,
                     type: 'GET',
