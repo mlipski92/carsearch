@@ -27,3 +27,10 @@
   <li>Add some dropdown fields</li>
   <li>Clear Cache</li>
 </ul>
+<br />
+<br />
+<h2>ToDo</h2>
+<ul>
+  <li>Check if field is "select"</li>
+  <li>Remove all related attributes during uninstall</li>
+</ul>
